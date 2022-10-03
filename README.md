@@ -25,3 +25,7 @@ The app has several main features:
 
 ## UI
 ### video demo
+https://user-images.githubusercontent.com/41602889/193666955-50fa4a64-9de7-4ad6-9133-02fa6d8c6008.mp4
+
+
+https://user-images.githubusercontent.com/41602889/193667229-80c28fa1-ac1f-43e6-aa1f-ac25368cb0ef.mp4
